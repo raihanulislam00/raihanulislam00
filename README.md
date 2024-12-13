@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%064223229&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+Ambassador+Microsoft;I'm+from+CSE+AIUB;Always+learning+new+things"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tasmiazerin1128&label=Profile%20views&color=0e75b6&style=flat" alt="tasmiazerin1128" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raihanulislam00&label=Profile%20views&color=0e75b6&style=flat" alt="raihanulislam00" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img align="right" alt="GIF" height="250px" src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" title="One must imagine Sisyphus happy" />
@@ -51,4 +51,10 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanulislam00&show_icons=true&locale=en&layout=compact" alt="tasmiazerin1128" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanulislam00&show_icons=true&locale=en" alt="tasmiazerin1128" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanulislam00&show_icons=true&locale=en" alt="raihanulislam00" /></p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+  <img height="273em" src="https://leetcard.jacoblin.cool/Roll_Num_44?theme=light&font=Karma&ext=contest" />
+</p>
+
