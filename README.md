@@ -1,38 +1,54 @@
-# Hello, World! 👋
+## Myself
 
-I'm Raihanul Islam, a passionate Competitive Programmer and dedicated algorithmic problem solver. Currently pursuing my degree in Computer Science and Engineering.
+<h1 align="center">Hi, I'm Raihanul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%064223229&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+Ambassador+Microsoft;I'm+from+CSE+AIUB;Always+learning+new+things"></a>
+</p>
 
-## About Me
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tasmiazerin1128&label=Profile%20views&color=0e75b6&style=flat" alt="tasmiazerin1128" /> </p>
 
-- 🌐 Computer Science and Engineering student.
-- 💻 Actively involved in Competitive Programming.
-- 🧠 Enthusiast for problem-solving, algorithms, and data structures.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img align="right" alt="GIF" height="250px" src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" title="One must imagine Sisyphus happy" />
 
-## 🚀 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaihanulIslamNahid&count_private=true&show_icons=true&theme=radical)](https://github.com/RaihanulIslamNahid)
+- 🌱 I’m currently working on **Software Engineer**
 
-## 📊 Languages
+- 👨‍💻 All of my projects are available at [raihanulislam.vercel.app](https://raihanulislam.vercel.app/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanulIslamNahid&layout=compact&theme=radical)](https://github.com/RaihanulIslamNahid)
-## 🌟 Experiences
-- [x] Student Ambassadors in Microsoft (October 2023 – Present)
-- [x] Campus Ambassador in Hackules Inc.(Jan 2024 – Present)
+- 💬 Ask me about **full-stack, unity, illustrator (I know it's different than the others 😅)**
 
-## 🌟 Achievements
+- 📫 How to reach me **raihanulislamnahid32@gmail.com**
 
-- [x] Consistently participating in competitive programming contests.
-- [x] Mastering algorithms and data structures.
-- [x] [Percent in Google Code Jam 2022](https://drive.google.com/file/d/18iKJXFr-qhySIlcql1UCNrjVseJveZYy/view?usp=sharing)
-- [x] [Percent in Meta Hacker Cup 2023](https://drive.google.com/file/d/1bJKbPWinJ2EWXwFvp5XdIlAPGLi05aAF/view)
-- [x] [Beta Microsoft Student Learn Ambassador](https://drive.google.com/file/d/1bGpuzP0Bv8oPyYsqmHx0f2stMtTiP-6L/view)
+- 😎 Connect with me on [LinkedIn](https://www.linkedin.com/in/raihanulislam00/)
 
-## 📫 Connect with Me
+- ⚡ Fun fact **We think software development is fun, but it stinksss**
 
-Feel free to connect with me on 
-- [Website](https://raihanulislam.vercel.app/)
-- [Blog Website](https://raihanulislamnahid.github.io/home)
-- [LinkedIn](https://www.linkedin.com/in/raihanulislamnahid/)
-- [Facebook](https://www.facebook.com/raihanulislamnahid44)
-- [Email](raihanulislamnahid22@gmail.com)
-##### Let's code and learn together! 🚀
+<br>
+<p align="left">
+
+## 🛠️ Languages and Tools
+  
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+ </p>
+</p>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanulislam00&show_icons=true&locale=en&layout=compact" alt="tasmiazerin1128" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanulislam00&show_icons=true&locale=en" alt="tasmiazerin1128" /></p>
