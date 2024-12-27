@@ -1,6 +1,6 @@
 <!-- Banner & Links -->
 
-<img align='center' src= "images/header.png">
+<img align='center' src= "img/header.png">
 <div align="center">
 <a href="https://medium.com/@roll_num_44"><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
 <a href="https://raihanulislam.vercel.app/"><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="35"></a>
