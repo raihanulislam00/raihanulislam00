@@ -178,6 +178,7 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=raihanulislam00&repo=Abohochitro&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/raihanulislam00/Abohochitro)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=raihanulislam00&repo=TaskMaster&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/raihanulislam00/TaskMaster)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=raihanulislam00&repo=Bank-Management&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/raihanulislam00/Bank-Management)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=raihanulislam00&repo=BanglaVerse&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/raihanulislam00/BanglaVerse)
 
 
 
