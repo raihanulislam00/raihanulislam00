@@ -76,7 +76,7 @@
 <a href="https://linktr.ee/roll_num_44"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo" /></a>
 <a href="https://stackoverflow.com/users/23089430/raihanul-islam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="stackoverflow logo" /></a>
 <a href="https://codeforces.com/profile/Roll_Num_44"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces logo" /></a>
-<a href="https://leetcode.com/roll_num_44/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="leetcode logo" /></a>
+<a href="https://leetcode.com/raihanulislam00/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="leetcode logo" /></a>
 </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
