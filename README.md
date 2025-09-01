@@ -38,15 +38,6 @@
 </p>
 <!-- Github Readme Stats -->
 
-<!-- Waka Time in Depth Stats -->
-<!-- 
-<p align="center">
-<a href="https://wakatime.com/@raihanulislam00">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=raihanulislam00&layout=compact&theme=moltack"  width="58%" />
-</a>
-</p>
--->
-<!-- Waka Time in Depth Stats -->
 
 
 <!-- Github Profile Summary Cards -->
@@ -106,13 +97,13 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
-
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg)
 #### ⛏️ Backend Development & Database Services
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
@@ -120,16 +111,15 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg)
 
 #### 😡 App Development
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift3.svg)
 
 #### 🚦 Version Control & Documentation Tools
 
@@ -162,7 +152,7 @@
 <h2>✍🏻 Read My Blogs on [
 <a href = "https://raihanulislam00.github.io/home">Blog Website</a>, 
 <a href = "https://medium.com/@roll_num_44">Medium</a>, 
-<a href = "https://dev.to/roll_num_44">Dev.to</a>, 
+<a href = "https://dev.to/raihanulislam00">Dev.to</a>, 
 <a href = "https://www.linkedin.com/in/raihanulislam00/">LinkedIn</a>]</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -180,8 +170,5 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=raihanulislam00&repo=Bank-Management&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/raihanulislam00/Bank-Management)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=raihanulislam00&repo=BanglaVerse&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/raihanulislam00/BanglaVerse)
 
-
-
-<!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Intership-Preparation-2024&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/Intership-Preparation-2024) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
