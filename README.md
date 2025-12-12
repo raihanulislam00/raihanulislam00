@@ -11,11 +11,12 @@
 <!-- Heading and BIO -->
 <h1 align="center">Hi👋, I am Raihanul Islam</h1>
 
-<p align="center" width="150px">
-  I am currently a <b>Student Ambassador</b> at
-  <a href="https://www.linkedin.com/company/microsoft-learn-student-ambassadors/"><b>Microsoft</b></a>. <br />
-  Besides, I am studying <b>Computer Science and Engineering</b> at <b>American International University-Bangladesh (AIUB)</b>.
-</p>
+<div align="center" width="150px">
+
+I am currently an <b>Software Engineering Trainee </b> at **[Deep Mind Labs Ltd](https://www.linkedin.com/company/deepmindlabsai/posts/?feedView=all)**. <br />
+Besides, I studied <b>Computer Science & Engineering</b> in <b>American International University-Bangladesh</b>. <br />
+
+</div>
 
 <!-- Heading and BIO -->
 
