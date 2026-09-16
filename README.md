@@ -100,8 +100,13 @@ A full-stack bus management system with ticket booking, route scheduling, and ro
 Built with modular RESTful APIs, JWT authentication, Docker containerization, and CI/CD via GitHub Actions.
 Includes unit and integration tests using **Jest** and **Cypress**.
 
-### 🏥 [E-Doctor](https://github.com/raihanulislam00) `TypeScript · Next.js · Node.js`
-Full-stack doctor appointment and patient management platform with separate, independently deployable frontend and backend services.
+### 🏥 [E-HospitalBD](https://github.com/raihanulislam00/E-HospitalBD) `TypeScript · Next.js · Node.js`
+Full-stack hospital management platform for Bangladesh with separate, independently deployable frontend and backend services.
+Covers doctor appointments, patient management, and core healthcare workflows with a TypeScript frontend and Node.js backend.
+
+### 📅 [Clander](https://github.com/raihanulislam00/Clander) `Swift · SwiftUI · iOS`
+A clean, lightweight calendar app for iOS/macOS built with SwiftUI.
+Features a monthly calendar view, date selection with a today shortcut, an add-event flow with a date picker, and a per-day agenda panel — designed for quick, intuitive scheduling.
 
 ### 🌦️ [Abohochitro](https://github.com/raihanulislam00/Abohochitro) `PHP · JavaScript · MySQL`
 Real-time weather and air-quality monitoring dashboard for Bangladesh with interactive visualizations, health guidance, and alerting features.
